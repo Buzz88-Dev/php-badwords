@@ -1,0 +1,18 @@
+div {
+    margin-bottom: 50px;
+}
+
+.red {
+    background-color: rgb(229, 107, 107);
+    padding: 20px 0px;
+}
+
+.green {
+    background-color: rgb(115, 213, 115);
+    padding: 20px 0px;
+}
+
+.blue {
+    background-color: rgb(94, 94, 232);
+    padding: 20px 0px;
+}
